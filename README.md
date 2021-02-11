@@ -5,7 +5,7 @@ For this programmers work diligently on a chair and do the programming more than
     
 Which weakens eyes, causes dehydration and back pain, making us weak.
 
-To solve this problem, I have made a program which alerts us to drink water, exercises eyes and physical activity by playing a music.
+To solve this problem, I have made a program which alerts us to drink water, exercises eyes and physical activity by playing music.
 
 It will also save your log in a file.
 
